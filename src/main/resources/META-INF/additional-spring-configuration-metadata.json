@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "toolbox.extraction.path",
+  "type": "java.lang.String",
+  "description": "This is where the Zip files would be extracted to be parsed"
+}]}
